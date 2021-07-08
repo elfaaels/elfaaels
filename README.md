@@ -11,7 +11,8 @@
 
 <p align="left">
  <a href="https://www.linkedin.com/in/elfana-anamta-chatya/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="35" style="vertical-align:top; margin:4px"></a>
-    <a href="https://twitter.com/elfaael" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="35" style="vertical-align:top; margin:4px"></a>
+ <a href="https://twitter.com/elfaael" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="35" style="vertical-align:top; margin:4px"></a>
+   <a href="https://www.behance.net/elfaael" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" alt="Python" height="35" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
