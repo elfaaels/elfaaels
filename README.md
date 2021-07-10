@@ -14,6 +14,7 @@
  <a href="https://twitter.com/elfaael" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="35" style="vertical-align:top; margin:4px"></a>
    <a href="https://www.behance.net/elfaael" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" alt="Python" height="35" style="vertical-align:top; margin:4px"></a>
       <a href="https://open.spotify.com/playlist/1qdTIddmzSxZDOcjjjnnnn" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Python" height="35" style="vertical-align:top; margin:4px"></a>
+    <a href="https://the-cyber-gal.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Python" height="35" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
