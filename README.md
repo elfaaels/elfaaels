@@ -3,7 +3,7 @@
 
 
 - 🔭 Technologies I’m currently focusing on Flutter, ReactJS, Node.js, Routing-Networking-Switching, AWS, GCP.
-- 🌱 I’m currently learning Computer Science, Major in Computer Networks & Security at Universiti Teknologi Malaysia
+- 🌱 Just Graduated from Universiti Teknologi Malaysia, Computer Science, Major in Computer Networks & Security.
 - 📫 How to reach me: elfana.engineer@gmail.com 
 - ⚡ I code with  C++, Dart, Javascript, PHP, Phyton & Java sometimes.
 
