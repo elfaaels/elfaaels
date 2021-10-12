@@ -2,7 +2,7 @@
    ## A Girl Who Code
 
 
-- 🔭 Technologies I’m currently focusing on Flutter, MERN, Routing-Networking-Switching, AWS, GCP.
+- 🔭 Technologies I’m currently focusing on: Flutter, MERN, Routing-Networking-Switching mostly using Cisco, GCP, DevOps.
 - 🌱 Just Graduated from Universiti Teknologi Malaysia, Computer Science, Major in Computer Networks & Security.
 - 📫 How to reach me: elfana.engineer@gmail.com 
 - ⚡ I code with  C++, Dart, Javascript, PHP, Phyton & Java sometimes.
