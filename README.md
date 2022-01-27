@@ -2,10 +2,10 @@
    ## A Girl Who Code
 
 
-- 🔭 Technologies I’m currently focusing on: Flutter, MERN, DevOps, and QA Engineering.
+- 🔭 Technologies I’m currently focusing on: Flutter, MERN, DevOps, & UX Research.
 - 🌱 Just Graduated from Universiti Teknologi Malaysia, Computer Science, Major in Computer Networks & Security.
 - 📫 How to reach me: elfana.engineer@gmail.com 
-- ⚡ I often do codes with  C++, Dart, Javascript, Python & Java sometimes.
+- ⚡ I often do codes with  C++, Dart, Javascript (Node.js, React.js), Python & Java sometimes.
 
 ## ✉️ Find me on:
 
