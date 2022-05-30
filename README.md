@@ -2,7 +2,7 @@
    ## A Girl Who Code
 
 
-- 🔭 Technologies I’m currently focusing on: Mobile Engineering (Flutter & iOS-soonest) , Node.js, GCP, & UX.
+- 🔭 Technologies I’m currently focusing on: Mobile Engineering (Flutter & Native iOS=WIP) , Node.js, GCP, & UX.
 - 🌱 Computer Science Graduate from Universiti Teknologi Malaysia, Major in Computer Networks & Security.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Good at sports.
