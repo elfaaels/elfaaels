@@ -9,6 +9,8 @@
 - 📫 How to reach me: elfana.engineer@gmail.com 
 - ⚡ I often do codes with  C++, Dart, Javascript, Python & Java sometimes.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&theme=tokyonight)
+
 <!--
 ## ✉️ Find me on:
 
@@ -25,7 +27,7 @@
 -->
 <!--
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&theme=tokyonight)
+
 
 
 
