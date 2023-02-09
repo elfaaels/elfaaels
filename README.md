@@ -2,7 +2,7 @@
    ## A Girl Who Code
 
 
-- 🔭 Technologies I’m currently focusing on: Mobile Engineering (Flutter & Native iOS=WIP) , Node.js, GCP, & UX.
+- 🔭 Technologies I’m currently focusing on: Mobile Software Engineering (Flutter & Native iOS=WIP), Node.js, GCP, & UX.
 - 🌱 Computer Science Graduate from Universiti Teknologi Malaysia, Major in Computer Networks & Security.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Good at sports.
@@ -10,10 +10,11 @@
 - ⚡ I often do codes with  C++, Dart, Javascript, Python & Java sometimes.
 
 
-<!--
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&theme=tokyonight)
 
+<!--
 ## ✉️ Find me on:
 
 <p align="left">
