@@ -4,7 +4,6 @@
 
 - 🔭 Technologies I’m currently focusing on: Mobile Software Engineering (Flutter & Native iOS=WIP), Node.js, GCP, & UX.
 - 🌱 Computer Science Graduate from Universiti Teknologi Malaysia, Major in Computer Networks & Security.
-- 😄 Pronouns: She/her
 - ⚡ Fun fact: Good at sports.
 - 📫 How to reach me: elfana.engineer@gmail.com 
 - ⚡ I often do codes with  C++, Dart, Javascript, Python & Java sometimes.
