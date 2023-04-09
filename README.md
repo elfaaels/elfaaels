@@ -2,7 +2,7 @@
    ## A Girl Who Code
 
 
-- 🔭 Huge fan of Mobile Software Engineering (Flutter & Native iOS), Node.js, GCP, & UX.
+- 🔭 Huge fan of Digital Product Development, Mobile Software Engineering (Flutter & Native iOS), Node.js, GCP, & UX.
 - 🌱 BCS (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
 - 📫 elfana.engineer@gmail.com 
 - ⚡ I codes with  C++, Dart, Javascript, Swift, Python & Java sometimes.
