@@ -7,6 +7,8 @@
 - 📫 elfana.engineer@gmail.com 
 - ⚡ I codes with  C++, Dart, Javascript, Swift, Python & Java sometimes.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&hide_progress=true)](https://github.com/elfaaels/github-readme-stats)
+
 
 <!--
 
