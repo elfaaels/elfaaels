@@ -5,7 +5,7 @@
 - 🔭 Huge fan of Digital Product Development, Mobile Software Engineering (Flutter & Native iOS), Node.js, GCP, & UX.
 - 🌱 BCS (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
 - 📫 elfana.engineer@gmail.com 
-- ⚡ I codes with  C++, Dart, Javascript, Swift, Python & Java sometimes.
+- ⚡ She codes with  C++, Dart, Javascript, Swift, Python or Java sometimes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&hide_progress=true)](https://github.com/elfaaels/github-readme-stats)
 
