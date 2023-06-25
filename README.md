@@ -1,11 +1,12 @@
-## Hi there, just call me el or fael. 👋 
+## Hi there, just call me El or Fael. 👋 
    ## A Girl Who Code
 
 
-- 🔭 Huge fan of Digital Product Development, Mobile Software Engineering (Flutter & Native iOS), Node.js, GCP, & UX.
+- 🔭 Huge fan of Digital Product Development, Mobile Software Engineering (Flutter & Native iOS).
+- Hands-on skills: Flutter, Native iOS, Node.js, GCP, Java, C++, and UX. 
 - 🌱 BCS (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
 - 📫 elfana.engineer@gmail.com 
-- ⚡ She codes with  C++, Dart, Javascript, Swift, Python or Java sometimes.
+- ⚡ She codes with Dart, Javascript, Swift, and Python.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&hide_progress=true)](https://github.com/elfaaels/github-readme-stats)
 
