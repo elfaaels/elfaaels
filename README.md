@@ -6,7 +6,7 @@
 - Hands-on skills: Flutter, Native iOS, Node.js, GCP, Java, C++, and UX. 
 - 🌱 BCS (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
 - 📫 elfana.engineer@gmail.com 
-- ⚡ She codes with Dart, Javascript, Swift, and Python.
+- ⚡ Mostly codes with Dart, Javascript, Swift, and Python.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&hide_progress=true)](https://github.com/elfaaels/github-readme-stats)
 
