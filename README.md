@@ -3,7 +3,7 @@
 
 
 - 🔭 Huge fan of Digital Product Development, Mobile Software Engineering (Flutter & Native iOS).
-- Hands-on skills: Flutter, Native iOS (SwiftUI), Node.js, GCP, Java, C++, and UX. 
+- Hands-on skills: Flutter, Native iOS, Node.js, GCP, Java, C++, and UX. 
 - 🌱 BCS (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
 - 📫 elfana.engineer@gmail.com 
 - ⚡ Mostly codes with Dart, Javascript, Swift, and Python
