@@ -2,7 +2,7 @@
    ## A Girl Who Code
 
 
-- Huge fan of Digital Product Development and mobile Software Engineering (Flutter & Native iOS).
+- Huge fan of Digital Product Development and Mobile Software Engineering (Flutter & Native iOS).
 - Mobile Engineering Enthusiast (iOS Focused)
 - Hands-on skills: Flutter, Native iOS, Node.js, GCP, Java, C++, and UX. 
 - BCS (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
