@@ -4,10 +4,10 @@
 
 - Huge fan of Digital Product Development and Mobile Software Engineering (Flutter & Native iOS).
 - Mobile Engineering Enthusiast (iOS Focused)
-- Hands-on skills: Flutter, Native iOS, Node.js, GCP, Java, C++, and UX. 
-- BCS (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
+- Hands-on skills: Flutter, Native iOS, GCP, Java, C++, and UX. 
+- Bachelor of Computer Science (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
 - elfana.engineer@gmail.com 
-- Mostly codes with Dart, Javascript, Swift, and Python
+- I code with Dart, Swift, and Python
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&size_weight=0.5&count_weight=0.5)
 
