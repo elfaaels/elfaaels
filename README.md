@@ -4,7 +4,7 @@
 
 - Huge fan of Digital Product Development and Mobile Software Engineering (Flutter & Native iOS).
 - Mobile Engineering Enthusiast (iOS Focused)
-- Hands-on skills: Flutter, Native iOS, GCP, Java, C++, and UX. 
+- Interests: Flutter, Native iOS, Python Automation, UX.
 - Bachelor of Computer Science (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
 - elfana.engineer@gmail.com 
 - I code with Dart, Swift, and Python
