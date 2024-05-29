@@ -2,7 +2,7 @@
    ## A Girl Who Code
 
 
-- Huge fan of Digital Product Development and Mobile Software Engineering (Flutter & Native iOS).
+- Huge fan of Digital Product Development and Mobile Software Engineering.
 - Mobile Engineering Enthusiast (iOS Focused)
 - Interests: Flutter, Native iOS, Python Automation, UX.
 - Bachelor of Computer Science (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
