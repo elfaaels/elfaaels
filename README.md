@@ -4,7 +4,7 @@
 
 - Huge fan of Digital Product Development and Mobile Software Engineering.
 - Mobile Engineering Enthusiast (iOS Focused)
-- Tech Stack: Flutter, Native iOS, Python Automation, Maestro, Jira, Figma, Firebase, Sentry.
+- Tech Stack: Flutter, Native iOS, Maestro, Jira, Figma, Firebase, Sentry.
 - Bachelor of Computer Science (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
 - elfana.engineer@gmail.com 
 - I code with Dart, Swift, Python, and (a little bit of) JavaScript.
