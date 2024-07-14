@@ -7,7 +7,7 @@
 - Tech Stacks: Flutter, Native iOS, Python Automation.
 - Bachelor of Computer Science (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
 - elfana.engineer@gmail.com 
-- I code with Dart, Swift, and Python
+- I code with Dart, Swift, Python, and (a little bit of) JavaScript.
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&size_weight=0.5&count_weight=0.5)
 
