@@ -3,11 +3,11 @@
 
 
 - Huge fan of Digital Product Development and Mobile Software Engineering.
-- Tech Stack: Flutter, Native iOS, Maestro Test, Jira, Figma, Firebase.
+- Tech Stack: Flutter, Native iOS, Maestro Test, Jira, Figma, Firebase, and keep evolving...
 - Interest: Mobile App Dev, Software Engineering, DevOps, IT Automation, Cloud Computing.
 - Bachelor of Computer Science (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
 - elfana.engineer@gmail.com 
-- I code with Dart, Swift, Python, and (a little bit of) JavaScript.
+- I code with Dart, Swift, JavaScript, and a little bit of Python.
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&size_weight=0.5&count_weight=0.5)
 
