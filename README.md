@@ -2,7 +2,7 @@
    ## A Girl Who Code
 
 
-- Huge fan of Digital Software Development and Mobile Software Engineering.
+- Huge fan of Digital & Software Engineering.
 - Tech Stack: Flutter, Native iOS, Maestro Test, Jira, Figma, Firebase, and keep evolving...
 - Interest: Mobile App Dev, Software Engineering, DevOps, IT Automation, Cloud Computing.
 - Bachelor of Computer Science (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
