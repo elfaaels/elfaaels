@@ -1,13 +1,21 @@
 ## Hi there, call me El or Fael. 👋 
    ## A Girl Who Code
 
+👩‍💻 Digital Dreamer & Software Enthusiast
+Fueling my passion for tech by building impactful, user-focused mobile applications.
 
-- Huge fan of Digital & Software Engineering.
-- Tech Stack: Flutter, Native iOS, Maestro Test, Jira, Figma, Firebase, and keep evolving...
-- Interest: Mobile App Dev, Software Engineering, DevOps, IT Automation, Cloud Computing.
-- Bachelor of Computer Science (Hons.) - Computer Networks & Security, Universiti Teknologi Malaysia
-- elfana.engineer@gmail.com 
-- I code with Dart, Swift, JavaScript, and a little bit of Python.
+🌐 Tech Stack Highlights:
+Flutter, Swift for native iOS (SwiftUI, UIKit), Maestro for mobile UI testing, Firebase, and always exploring what’s next.
+
+🎯 Niche:
+Transforming ideas into sleek mobile experiences. Interested in Mobile App Dev, Cloud Computing, IT Automation, and the DevOps magic that powers it all.
+
+🎓 Education:
+Bachelor of Computer Science (Hons.) in Computer Networks & Security – Universiti Teknologi Malaysia, Class of 2021.
+
+📬 Connect:
+elfana.engineer@gmail.com
+GitHub projects showcase my journey in Dart, Swift, JavaScript, with a sprinkle of Python.
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&size_weight=0.5&count_weight=0.5)
 
