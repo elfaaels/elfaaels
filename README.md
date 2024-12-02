@@ -4,18 +4,20 @@
 👩‍💻 Digital Dreamer & Software Enthusiast
 Fueling my passion for tech by building impactful, user-focused mobile applications.
 
-🌐 Tech Stack Highlights:
-Flutter, Swift for native iOS (SwiftUI, UIKit), Maestro for mobile UI testing, Firebase, and always exploring what’s next.
+🌐 Tech Stack
 
-🎯 Niche:
-Transforming ideas into sleek mobile experiences. Interested in Mobile App Dev, Cloud Computing, IT Automation, and the DevOps magic that powers it all.
+Languages: Dart, Swift
+Frameworks: Flutter, SwiftUI, UIKit
+Tools: Maestro, Firebase
 
-🎓 Education:
-Bachelor of Computer Science (Hons.) in Computer Networks & Security – Universiti Teknologi Malaysia, Class of 2021.
+🎯 Interest
+Building Software | Mobile App Development | IT Automation
 
-📬 Connect:
+🎓 Education
+BSc in Computer Networks & Security, Universiti Teknologi Malaysia (2021)
+
+📬 Connect
 elfana.engineer@gmail.com
-GitHub projects showcase my journey in Dart, Swift, JavaScript, with a sprinkle of Python.
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&size_weight=0.5&count_weight=0.5)
 
