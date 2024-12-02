@@ -9,7 +9,7 @@ Fueling my passion for tech by building impactful, user-focused mobile applicati
 
 - Languages: Dart, Swift, JavaScript, Python
 - Frameworks: Flutter, SwiftUI, UIKit
-- Tools: Maestro, Firebase
+- Tools: Maestro, Firebase, Linear, Figma, Miro, GitHub Actions
 
 🎯 Interest
 
