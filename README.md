@@ -2,6 +2,7 @@
    ## A Girl Who Code
 
 👩‍💻 Digital Dreamer & Software Enthusiast
+
 Fueling my passion for tech by building impactful, user-focused mobile applications.
 
 🌐 Tech Stack
@@ -11,12 +12,17 @@ Frameworks: Flutter, SwiftUI, UIKit
 Tools: Maestro, Firebase
 
 🎯 Interest
+
 Building Software | Mobile App Development | IT Automation
 
 🎓 Education
+
+
 BSc in Computer Networks & Security, Universiti Teknologi Malaysia (2021)
 
 📬 Connect
+
+
 elfana.engineer@gmail.com
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&size_weight=0.5&count_weight=0.5)
