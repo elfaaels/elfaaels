@@ -13,12 +13,12 @@ Fueling my passion for tech by building impactful, user-focused mobile applicati
 
 🎯 Interest
 
-Building Software | Mobile App Development | IT Automation
+Software Engineering | Mobile App Development | IT Automation
 
 🎓 Education
 
 
-BSc in Computer Networks & Security, Universiti Teknologi Malaysia (2021)
+BCS in Computer Networks & Security, Universiti Teknologi Malaysia (2021)
 
 📬 Connect
 
