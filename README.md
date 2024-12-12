@@ -13,7 +13,7 @@ Fueling my passion for tech by building impactful, user-focused mobile applicati
 
 🎯 Interest
 
-Software Engineering | Mobile App Development | IT Automation
+Software Engineering | Mobile App Development | IT Automation | Cloud Computing
 
 🎓 Education
 
