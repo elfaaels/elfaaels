@@ -1,7 +1,7 @@
 ## Hi there, call me El or Fael. 👋 
    ## A Girl Who Code
 
-👩‍💻 Digital Dreamer & Software Enthusiast
+👩‍💻 Software Enthusiast
 
 Fueling my passion for tech by building impactful, user-focused mobile applications.
 
@@ -13,7 +13,7 @@ Fueling my passion for tech by building impactful, user-focused mobile applicati
 
 🎯 Interest
 
-Software Engineering | Mobile App Development | IT Automation | Cloud Computing
+Software Engineering | Mobile App Development | IT Automation 
 
 🎓 Education
 
