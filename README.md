@@ -1,15 +1,15 @@
 ## Hi there, call me El or Fael. 👋 
    ## A Girl Who Code
 
-👩‍💻 Software Enthusiast,  fan-gal
+👩‍💻 Software Enthusiast,  fan-gal, Mobile App Freaks
 
 Fueling my passion for tech by building impactful, user-focused mobile applications.
 
 🌐 Tech Stack
 
 - Languages: Dart, Swift, JavaScript, Python
-- Frameworks: Flutter, SwiftUI, UIKit
-- Tools: Maestro, Firebase, Linear, Figma, Miro, GitHub Actions
+- Frameworks: Flutter, SwiftUI, UIKit, React & React Native (currently exploring...)
+- Tools: Maestro, Firebase, Linear, Figma, Miro, GitHub Actions, Expo
 
 🎯 Interest
 
