@@ -1,7 +1,7 @@
 ## Hi there, call me El or Fael. 👋 
    ## A Girl Who Code
 
-👩‍💻 Software Enthusiast,  fan-gal, Mobile App Freaks
+👩‍💻  fan-gal, Mobile App Freaks
 
 Fueling my passion for tech by building impactful, user-focused mobile applications.
 
