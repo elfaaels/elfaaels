@@ -8,7 +8,7 @@ Fueling my passion for tech by building impactful, user-focused mobile applicati
 🌐 Tech Stack
 
 - Languages: Dart, Swift, JavaScript, Python
-- Frameworks: Flutter, SwiftUI, UIKit, React & React Native (currently exploring...)
+- Frameworks: Flutter, SwiftUI, UIKit, React & React Native
 - Tools: Maestro, Firebase, Linear, Figma, Miro, GitHub Actions, Expo
 
 🎯 Interest
