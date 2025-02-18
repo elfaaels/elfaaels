@@ -3,13 +3,13 @@
 
 👩‍💻  fan-gal
 
-Fueling my passion for tech by building impactful, user-focused mobile applications.
+Fueling my passion for tech this and tech that.
 
 🌐 Tech Stack
 
-- Languages: Dart, Swift, JavaScript, Python
+- Languages: Dart, Swift, JavaScript, Python, Java, C++
 - Frameworks: Flutter, SwiftUI, UIKit, React & React Native
-- Tools: Maestro, Firebase, Linear, Figma, Miro, GitHub Actions, Expo
+- Tools: Maestro, Firebase, Linear, Figma, Miro, GitHub Actions, CISCO, Wireshark, MikroTik
 
 🎯 Interest
 
@@ -19,6 +19,7 @@ Software Engineering | Network Engineering | Mobile App Engineering | IT Automat
 
 
 BCS in Computer Networks & Security, Universiti Teknologi Malaysia (2021)
+Vocational High School, Graduate in Computer & Networking Technology (2017)
 
 📬 Connect
 
