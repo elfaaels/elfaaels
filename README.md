@@ -18,8 +18,8 @@ Software Engineering | Network Engineering | Mobile App Engineering | IT Automat
 🎓 Education
 
 
-BCS in Computer Networks & Security, Universiti Teknologi Malaysia (2021)
-Vocational High School, Graduate in Computer & Networking Technology (2017)
+- BCS in Computer Networks & Security, Universiti Teknologi Malaysia (2021)
+- Vocational High School, Graduate in Computer & Networking Technology (2017)
 
 📬 Connect
 
