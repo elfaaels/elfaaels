@@ -8,8 +8,9 @@ Fueling my passion for tech this and tech that.
 🌐 Tech Stack
 
 - Languages: Dart, Swift, JavaScript, Python, Java, C++
-- Frameworks: Flutter, SwiftUI, UIKit, React & React Native
-- Tools: Maestro, Firebase, Linear, Figma, Miro, GitHub Actions, CISCO, Wireshark, MikroTik
+- Mobile Dev Frameworks: Flutter, SwiftUI, UIKit
+- Software Dev Tools: Maestro Testing, Firebase, JIRA, Figma, Lucidchart, GitHub Actions
+- Network Tools: Cisco, Wireshark, MikroTik, PuTTY, Cisco Packet Tracer
 
 🎯 Interest
 
