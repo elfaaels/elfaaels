@@ -8,7 +8,7 @@ Fueling my passion for tech this and tech that.
 🌐 Tech Stack
 
 - Languages: Dart, Swift, JavaScript, Python, Java, C++
-- Mobile Dev Frameworks: Flutter, SwiftUI, UIKit
+- Mobile Dev Frameworks: Flutter, SwiftUI
 - Software Dev Tools: Maestro Testing, Firebase, JIRA, Figma, Lucidchart, GitHub Actions
 - Network Tools: Cisco, Wireshark, MikroTik, PuTTY, Cisco Packet Tracer
 
