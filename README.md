@@ -14,7 +14,7 @@ Fueling my passion for tech this and tech that.
 
 🎯 Interest
 
-Software Engineering | Network Engineering | Mobile App Engineering | IT Automation | CyberSec
+Software Engineering | Network Engineering | Mobile Apps | IT Automation | CyberSecurity
 
 🎓 Education
 
