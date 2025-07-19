@@ -1,7 +1,7 @@
 ## Hi there, call me El or Fael. 👋 
 
 
-👩‍💻  fan-gal
+👩‍💻 
 
 Fueling my passion for tech this and tech that.
 
