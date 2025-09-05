@@ -6,26 +6,25 @@ I build and secure digital systems — from mobile apps to networks — with a g
 ⸻
 
 🌐 Tech Stack
-
-Languages: Dart, Swift, Python, Java, JavaScript, C++
-Mobile Frameworks: Flutter, SwiftUI
-Security Tools: DexGuard, iXGuard, ThreatCast, MobSF, Frida, JADX
-Dev Tools: Maestro, Firebase, JIRA, Figma, Lucidchart, GitHub Actions
-Network Tools: Cisco, MikroTik, Wireshark, PuTTY, Packet Tracer
+- Languages: Dart, Swift, Python, Java, JavaScript, C++
+- Mobile Frameworks: Flutter, SwiftUI
+- Security Tools: Apktool, Frida, JADX
+- Dev Tools: Maestro, Firebase, JIRA, Figma, Lucidchart, GitHub Actions
+- Network Tools: Cisco, MikroTik, Wireshark, PuTTY, Packet Tracer
 
 ⸻
 
 🎯 Focus Areas
-	•	Application Security & Cybersecurity
-	•	Secure Mobile & Software Engineering
-	•	Risk & Compliance Awareness
-	•	Network Engineering & IT Automation
+- Application Security & Cybersecurity
+- Secure Mobile & Software Engineering
+- Risk & Compliance Awareness
+- Network Engineering & IT Automation
 
 ⸻
 
 🎓 Education
-	•	B.Sc. Computer Networks & Security, Universiti Teknologi Malaysia (2021)
-	•	Vocational Diploma, Computer & Networking Technology (2017)
+- B.Sc. Computer Networks & Security, Universiti Teknologi Malaysia (2021)
+- Vocational Diploma, Computer & Networking Technology (2017)
 
 ⸻
 
