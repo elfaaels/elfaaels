@@ -1,31 +1,38 @@
 ## Hi there, call me El or Fael. 👋 
 
 
-👩‍💻 
+I build and secure digital systems — from mobile apps to networks — with a growing focus on cybersecurity, application security, and risk management. My journey started in software engineering and mobile development, and today I’m bridging that foundation with security analysis to design resilient, trusted solutions.
 
-Fueling my passion for tech this and tech that.
+⸻
 
 🌐 Tech Stack
 
-- Languages: Dart, Swift, JavaScript, Python, Java, C++
-- Mobile Dev Frameworks: Flutter, SwiftUI
-- Software Dev Tools: Maestro Testing, Firebase, JIRA, Figma, Lucidchart, GitHub Actions
-- Network Tools: Cisco, Wireshark, MikroTik, PuTTY, Cisco Packet Tracer
+Languages: Dart, Swift, Python, Java, JavaScript, C++
+Mobile Frameworks: Flutter, SwiftUI
+Security Tools: DexGuard, iXGuard, ThreatCast, MobSF, Frida, JADX
+Dev Tools: Maestro, Firebase, JIRA, Figma, Lucidchart, GitHub Actions
+Network Tools: Cisco, MikroTik, Wireshark, PuTTY, Packet Tracer
 
-🎯 Interest
+⸻
 
-Software Engineering | Network Engineering | Mobile Apps | IT Automation | CyberSecurity
+🎯 Focus Areas
+	•	Application Security & Cybersecurity
+	•	Secure Mobile & Software Engineering
+	•	Risk & Compliance Awareness
+	•	Network Engineering & IT Automation
+
+⸻
 
 🎓 Education
+	•	B.Sc. Computer Networks & Security, Universiti Teknologi Malaysia (2021)
+	•	Vocational Diploma, Computer & Networking Technology (2017)
 
-
-- BCS in Computer Networks & Security, Universiti Teknologi Malaysia (2021)
-- Vocational High School, Graduate in Computer & Networking Technology (2017)
+⸻
 
 📬 Connect
 
+📩 elfana.engineer@gmail.com
 
-elfana.engineer@gmail.com
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&size_weight=0.5&count_weight=0.5)
 
