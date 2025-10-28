@@ -1,10 +1,5 @@
 ## Hi there, call me El or Fael. 👋 
 
-
-I build and secure digital systems — from mobile apps to networks — with a growing focus on cybersecurity, application security, and risk management. My journey started in software engineering and mobile development, and today I’m bridging that foundation with security analysis to design resilient, trusted solutions.
-
-⸻
-
 🌐 Tech Stack
 - Languages: Dart, Swift, Python, Java, JavaScript, C++
 - Mobile Frameworks: Flutter, SwiftUI
