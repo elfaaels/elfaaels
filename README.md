@@ -1,19 +1,13 @@
 ## Hi there, call me El or Fael. 👋 
 
-🌐 Tech Stack
-- Languages: Dart, Swift, Python, Java, JavaScript, C++
-- Mobile Frameworks: Flutter, SwiftUI
-- Security Tools: Apktool, Frida, JADX
-- Dev Tools: Maestro, Firebase, JIRA, Figma, Lucidchart, GitHub Actions
-- Network Tools: Cisco, MikroTik, Wireshark, PuTTY, Packet Tracer
-
 ⸻
 
 🎯 Focus Areas
-- Application Security & Cybersecurity
-- Secure Mobile & Software Engineering
-- Risk & Compliance Awareness
-- Network Engineering & IT Automation
+- Cybersecurity – Application Security, Mobile Protection, Threat Mitigation
+- App Development – Flutter, SwiftUI, Cross-Platform Engineering
+- Software Security Engineering – Secure CI/CD, Obfuscation, RASP & Code Hardening
+- Risk & Compliance – GRC Awareness, Security Governance
+- Networking – Cisco, MikroTik, IT Automation
 
 ⸻
 
