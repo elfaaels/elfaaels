@@ -12,8 +12,8 @@
 ⸻
 
 🎓 Education
-- B.Sc. Computer Networks & Security, Universiti Teknologi Malaysia (2021)
-- Vocational Diploma, Computer & Networking Technology (2017)
+- BCS Computer Networks & Security, Universiti Teknologi Malaysia (2021)
+- Vocational High School, Computer & Networking Technology (2017)
 
 ⸻
 
