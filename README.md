@@ -4,7 +4,7 @@
 
 🎯 Focus Areas
 - Cybersecurity – Application Security, Mobile Protection, Threat Mitigation
-- App Development – Flutter, SwiftUI, Cross-Platform Engineering
+- App Development – Hybrid/Cross-Platform Engineering
 - Software Security Engineering – Secure CI/CD, Obfuscation, RASP & Code Hardening
 - Risk & Compliance – GRC Awareness, Security Governance
 - Networking – Cisco, MikroTik, IT Automation
@@ -20,9 +20,6 @@
 📬 Connect
 
 📩 elfana.engineer@gmail.com
-
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&size_weight=0.5&count_weight=0.5)
 
 <!--
 
