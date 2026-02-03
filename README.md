@@ -5,7 +5,7 @@ Intersection of Security. Engineering. Risk & governance.
 **Areas of Work**
 - Application & Mobile Security
 - Secure Software Engineering
-- Risk & Governance
+- Cybersecurity, Risk & Governance
 
 **Background**
 - BCS Computer Networks & Security — Universiti Teknologi Malaysia
