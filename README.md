@@ -1,27 +1,16 @@
 ## Hi there, call me El or Fael. 👋 
+ 
+Intersection of Security. Systems. Risk & governance.
 
-⸻
+**Areas of Work**
+- Application & Mobile Security
+- Secure Software Engineering
+- Risk & Governance
 
-🎯 Focus Areas
-- Cybersecurity – Application Security, Mobile Protection, Threat Mitigation
-- App Development – Hybrid/Cross-Platform Engineering
-- Software Security Engineering – Secure CI/CD, Obfuscation, RASP & Code Hardening
-- Risk & Compliance – GRC Awareness, Security Governance
-- Networking – Cisco, MikroTik, IT Automation
+**Background**
+- BCS Computer Networks & Security — Universiti Teknologi Malaysia
 
-⸻
-
-🎓 Education
-- BCS Computer Networks & Security, Universiti Teknologi Malaysia (2021)
-- Vocational High School, Computer & Networking Technology (2017)
-
-⸻
-
-📬 Connect
-
-📩 elfana.engineer@gmail.com
-
-<!--
+📫 elfana.engineer@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&theme=tokyonight)
 
