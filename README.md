@@ -1,6 +1,6 @@
 ## Hi there, call me El or Fael. 👋 
  
-Intersection of Security. Systems. Risk & governance.
+Intersection of Security. Engineering. Risk & governance.
 
 **Areas of Work**
 - Application & Mobile Security
