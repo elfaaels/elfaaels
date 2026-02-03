@@ -12,7 +12,7 @@ Intersection of Security. Systems. Risk & governance.
 
 📫 elfana.engineer@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfaaels&theme=tokyonight)
+[![Elfaael's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfaaels)](https://github.com/elfaaels/github-readme-stats)
 
 
 ## ✉️ Find me on:
