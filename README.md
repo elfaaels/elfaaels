@@ -9,6 +9,7 @@ Intersection of Security. Engineering. Risk & governance.
 
 **Background**
 - BCS Computer Networks & Security — Universiti Teknologi Malaysia
-- Computer Networks & Technology - Vocational High School 
+- Computer Networks & Technology - Vocational High School
+- Cisco Certified, Enchipers Certified
 
 📫 elfana.engineer@gmail.com
